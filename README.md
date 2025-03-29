@@ -1,4 +1,5 @@
 [![Buy Now](https://img.shields.io/badge/Buy%20Now-Email-red)](mailto:roxjonez1@gmail.com)
+[![source code](https://img.shields.io/badge/Buy%20Now-Email-red)](mailto:roxjonez1@gmail.com)
 
 # 🍬 Candy Clone
 
