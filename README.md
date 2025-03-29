@@ -1,3 +1,5 @@
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Email-red)](mailto:roxjonez1@gmail.com)
+
 # 🍬 Candy Clone
 
 A modern and sleek clone of Candy, built with a focus on performance, design, and user experience.
